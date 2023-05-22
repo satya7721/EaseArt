@@ -12,3 +12,7 @@
 .divider{
     min-height: 15px;
 }
+
+body{
+    background-color: white;
+}
