@@ -1,0 +1,14 @@
+.login-box{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+   
+}
+
+.login-box .button-box{
+    text-align: center;
+}
+
+.divider{
+    min-height: 15px;
+}
